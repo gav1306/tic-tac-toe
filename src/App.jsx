@@ -7,7 +7,7 @@ import GameOver from "./components/GameOver";
 
 const PLAYERS = {
   X: "Player 1",
-  Y: "Player 2",
+  O: "Player 2",
 };
 
 const INITIAL_GAME_BOARD = [
